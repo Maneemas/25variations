@@ -52,3 +52,8 @@ h2{
     padding: 5px 0px 4px 20px;
     border-left: 4px solid black;
 }
+
+a{
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}

@@ -87,3 +87,8 @@ body{
     border-radius: 250px;
     background-color: rgb(127, 144, 143);
 }
+
+a{
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}

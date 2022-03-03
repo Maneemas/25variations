@@ -52,3 +52,8 @@ body{
     padding: 40px 10px 10px 300px;
 
 }
+
+a{
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}

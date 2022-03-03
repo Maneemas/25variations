@@ -122,3 +122,7 @@ span{
     scroll-snap-align: start;
 }
 
+a{
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}

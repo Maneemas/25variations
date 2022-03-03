@@ -97,3 +97,8 @@ h1{
     line-height: 200%;
     letter-spacing: 0.1em;
 }
+
+a{
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}

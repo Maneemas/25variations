@@ -49,3 +49,8 @@ h1{
     float: left;
     background-color: rgb(227, 184, 208);
 }
+
+a{
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}

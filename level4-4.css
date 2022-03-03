@@ -6,3 +6,8 @@ body{
     text-align: center;
     font-size: 10em;
 }
+
+a{
+    color: red;
+    font-family: 'Roboto', sans-serif;
+}
