@@ -8,30 +8,30 @@ body{
 }
 
 h1{
-    border: 10px solid rgb(240, 240, 240);
+    border: 5px solid rgb(240, 240, 240);
     float: left;
-    margin-right: 20px;
-    margin-left: 10px;
+    margin-right: 10px;
+    margin-left: 1px;
     margin-top:50px;
-    padding: 50px 20px;
+    padding: 50px 10px;
 
     text-shadow: white 2px 5px;
-    font-size: 8em;
+    font-size: 2em;
     color: rgb(35, 25, 66);
 }
 
 .h2{
     color: white;
-    font-size: 1em;
+    font-size: 0.7em;
     text-shadow: rgb(35, 25, 66) 2px 5px;
 }
 
 .body1{
-    padding: 3px 30px 40px;
+    padding: 3px 6px 40px;
     float: left;
     background-color: rgb(159, 134, 192);
 
-    font-size: 2em;
+    font-size: 0.5rem;
     font-weight: 900;
     text-align:center;
     line-height: 200%;
@@ -40,22 +40,22 @@ h1{
 }
 
 .body2{
-    padding: 4px 50px 50px;
+    padding: 4px 5px 50px;
     float: left;
     background-color: rgb(175, 142, 194);
 
-    font-size: 2em;
+    font-size: 0.5rem;
     font-weight: 900;
     text-align:center;
     line-height: 200%;
     letter-spacing: 0.1em;
 }
 .body3{
-    padding: 5px 50px 250px;
+    padding: 5px 8px 250px;
     float: left;
     background-color: rgb(190, 149, 196);
 
-    font-size: 2em;
+    font-size: 0.5rem;
     font-weight: 900;
     text-align:center;
     line-height: 200%;
@@ -63,11 +63,11 @@ h1{
 }
 
 .body4{
-    padding: 5px 50px 300px;
+    padding: 5px 8px 300px;
     float: left;
     background-color: rgb(207, 163, 200);
 
-    font-size: 2em;
+    font-size: 0.5rem;
     font-weight: 900;
     text-align:center;
     line-height: 200%;
@@ -75,10 +75,10 @@ h1{
 }
 
 .body5{
-    padding: 5px 50px 400px;
+    padding: 5px 8px 400px;
     float: left;background-color: rgb(224, 177, 203);
 
-    font-size: 2em;
+    font-size: 0.5rem;
     font-weight: 900;
     text-align:center;
     line-height: 200%;
@@ -86,12 +86,12 @@ h1{
 }
 
 .body6{
-    padding: 5px 50px 420px;
+    padding: 5px 8px 420px;
     float: left;
     background-color: rgb(227, 184, 208);
     text-align: center;
 
-    font-size: 2em;
+    font-size: 0.5rem;
     font-weight: 900;
     text-align:center;
     line-height: 200%;

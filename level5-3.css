@@ -25,6 +25,11 @@ h1{
 
 }
 
+.arrow{
+    border: 10px solid aqua;
+}
+
+
 h2{
     background-color: blue;
     color: white;
