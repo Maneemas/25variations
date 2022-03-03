@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    width: auto;
+    height: 3em;
+    font-size: 1em;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 10em;
+    margin: 0%;
+}
+
+
+.grid{
+    margin: 0.5rem auto;
+    display: grid;
+    grid-auto-flow: column;
+    gap: 10px;
+    padding-left: 20em;
+    padding-right: 20em;
+    text-align: center;
+}
