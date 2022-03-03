@@ -1,0 +1,51 @@
+html{
+    background-color: rgb(94, 84, 142);
+    color: rgb(35, 25, 66);
+}
+
+h1{
+    border: 4px solid rgb(240, 240, 240);
+    float: left;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top:50px;
+    padding: 50px 20px;
+}
+
+.h2{
+    color: white;
+}
+
+.body1{
+    padding: 3px 30px 40px;
+    float: left;
+    background-color: rgb(159, 134, 192);
+}
+
+.body2{
+    padding: 4px 50px 50px;
+    float: left;
+    background-color: rgb(175, 142, 194);
+}
+.body3{
+    padding: 5px 50px 100px;
+    float: left;
+    background-color: rgb(190, 149, 196);
+}
+
+.body4{
+    padding: 5px 50px 150px;
+    float: left;
+    background-color: rgb(207, 163, 200);
+}
+
+.body5{
+    padding: 5px 50px 200px;
+    float: left;background-color: rgb(224, 177, 203);
+}
+
+.body6{
+    padding: 5px 50px 200px;
+    float: left;
+    background-color: rgb(227, 184, 208);
+}

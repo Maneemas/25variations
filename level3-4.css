@@ -1,0 +1,54 @@
+h1{
+    width: 150px;
+    border: 4mm ridge rgba(139, 139, 139, 0.6);
+    margin: 10px 10px 10px 550px;
+    padding: 10px 10px 10px 40px;
+    background-color: rgb(53, 53, 53);
+}
+
+.h2{
+    width: 40px;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 200px;
+    border: 4mm ridge rgba(102, 197, 177, 0.6);
+    background-color: rgb(58, 97, 84);
+}
+
+body{
+    height: 1450px;
+    padding: 40px 10px 10px 0px;
+    border: 25mm ridge rgba(49, 49, 49, 0.6);
+    color: white;
+    background-color: black;
+}
+
+.body1{
+    padding: 40px 10px 10px 300px;
+
+}
+
+.body2{
+    padding: 40px 10px 10px 300px;
+}
+
+.tear{
+    color: red;
+}
+
+.body3{
+    padding: 40px 10px 10px 300px;
+}
+
+.body4{
+    padding: 40px 10px 10px 300px;
+
+}
+
+.body5{
+    padding: 40px 10px 10px 300px;
+}
+
+.body6{
+    padding: 40px 10px 10px 300px;
+
+}

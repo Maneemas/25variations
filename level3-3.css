@@ -1,0 +1,54 @@
+h1{
+    float: right;
+    margin: 10px 250px;
+    padding: 5px 0px 4px 10px;
+    border-left: 4px solid black;
+}
+
+h2{
+    position:absolute;
+    left: 20em;
+}
+
+.body1{
+    width: 350px;
+    margin: 10px 50px 20px 0;
+    padding: 5px 0px 4px 5px;
+    border-right: 4px solid black;
+}
+
+.body2{
+    width: 350px;
+    margin: 10px 50px 20px 50px;
+    padding: 5px 4px 10px 20px;
+    border-left: 4px solid black;
+}
+
+.body3{
+    width: 270px;
+    margin: 10px 50px 20px 100px;
+    padding: 5px 0px 4px 5px;
+    border-right: 4px solid black;
+}
+
+.body4{
+    width: 350px;
+    margin: 10px 50px 20px 200px;
+    padding: 5px 0px 4px 20px;
+    border-left: 4px solid black;
+
+}
+
+.body5{
+    width: 280px;
+    margin: 10px 50px 20px 300px;
+    padding: 5px 0px 4px 5px;
+    border-right: 4px solid black;
+}
+
+.body6{
+    width: 350px;
+    margin: 10px 50px 20px 400px;
+    padding: 5px 0px 4px 20px;
+    border-left: 4px solid black;
+}

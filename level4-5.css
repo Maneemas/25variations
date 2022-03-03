@@ -1,0 +1,16 @@
+body{
+  display: grid;
+  place-items: center;
+  padding-top: 3em;
+
+  height: 90vh;
+  margin: 0;
+
+ 
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 0.5em;
+}

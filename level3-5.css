@@ -1,0 +1,89 @@
+html{
+    background-color: rgb(0, 48, 73);
+}
+
+h1{
+    padding-top: 100px;
+    padding-left: 80px;
+    width: 200px;
+    height: 150px;
+    margin-left: 100px;
+    border: 150px solid rgb(51, 102, 131);
+    border-radius: 250px;
+    background-color: rgb(102, 155, 188);
+    color: rgb(253, 240, 213);
+}
+
+.h2{
+    padding: 35px 20px 20px 25px;
+    width: 60px;
+    height: 60px;
+    border: 10px solid rgb(120,0,0);
+    border-radius: 100px;
+    background-color: rgb(193, 18, 31);
+    color: rgb(253, 240, 213);
+}
+
+body{
+    color:rgb(253, 240, 213)
+}
+
+.body1{
+    width: 300px;
+    height: 200px;
+    margin-left: 100px;
+    padding: 80px 20px 30px 50px;
+    border: 40px solid rgb(64, 96, 108);
+    border-radius: 300px;
+    background-color: rgb(127, 144, 143);
+}
+
+.body2{
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    padding: 80px 20px 30px 50px;
+    border: 70px solid rgb(64, 96, 108);
+    border-radius: 150px;
+    background-color: rgb(127, 144, 143);
+}
+
+.body3{
+    width: 200px;
+    height: 150px;
+    margin-left: 300px;
+    padding: 70px 50px 20px 80px;
+    border: 20px solid rgb(64, 96, 108);
+    border-radius: 150px;
+    background-color: rgb(127, 144, 143);
+}
+
+.body4{
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    padding: 80px 20px 30px 80px;
+    border: 100px solid rgb(64, 96, 108);
+    border-radius: 200px;
+    background-color: rgb(127, 144, 143);
+}
+
+.body5{
+    width: 300px;
+    height: 200px;
+    margin-left: 400px;
+    padding: 80px 20px 30px 50px;
+    border: 60px solid rgb(64, 96, 108);
+    border-radius: 150px;
+    background-color: rgb(127, 144, 143);
+}
+
+.body6{
+    width: 300px;
+    height: 200px;
+    margin-left: 200px;
+    padding: 80px 70px 80px 70px;
+    border: 15px solid rgb(64, 96, 108);
+    border-radius: 250px;
+    background-color: rgb(127, 144, 143);
+}

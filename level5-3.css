@@ -1,0 +1,98 @@
+body{
+    font-family: 'Ranchers', cursive;
+    display: flex;
+    overflow-x: scroll;
+}
+
+h1{
+
+    background-color: black;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    letter-spacing: 1rem;
+    font-size: 30em;
+    font-weight: 1500;
+    width: 100vw;
+    height: 100vh;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    margin:0%;
+    
+
+}
+
+h2{
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: 'Archivo', sans-serif;
+    font-size: 3em;
+    letter-spacing: -0.1rem;
+    width: 100vw;
+    height: 100vh;
+    padding-left: 1em;
+    padding-right: 1em;
+    margin: 0%;
+}
+
+.body1{
+    scroll-snap-align: start;
+
+    font-family: 'Archivo', sans-serif;
+    font-size: 2em;
+    letter-spacing: -0.1rem;
+    width: 100vw;
+    height: 100vh;
+    padding-left: 0.5em;
+}
+
+.body2{
+    scroll-snap-align: start;
+
+    font-family: 'Archivo', sans-serif;
+    font-size: 2em;
+    letter-spacing: -0.1rem;
+    width: 100vw;
+    height: 100vh;
+}
+
+.body3{
+    scroll-snap-align: start;
+
+    font-family: 'Archivo', sans-serif;
+    font-size: 2em;
+    letter-spacing: -0.1rem;
+    width: 100vw;
+    height: 100vh;
+}
+
+.body4{
+    font-family: 'Archivo', sans-serif;
+    font-size: 2em;
+    letter-spacing: -0.1rem;
+    width: 100vw;
+    height: 100vh;
+}
+
+.body5{
+    font-family: 'Archivo', sans-serif;
+    font-size: 2em;
+    letter-spacing: -0.1rem;
+    width: 100vw;
+    height: 100vh;
+}
+
+.body6{
+    font-family: 'Archivo', sans-serif;
+    font-size: 2em;
+    letter-spacing: -0.1rem;
+    width: 100vw;
+    height: 100vh;
+}

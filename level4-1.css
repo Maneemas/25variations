@@ -1,0 +1,27 @@
+head{
+    text-align: center;
+}
+
+title{
+    font-weight: 900;
+    font-size: 150%;
+}
+
+.by{
+    text-align: center;
+    font-weight: 800%;
+    font-size: 120%;
+    padding-bottom: 1em;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-bottom: 0.08em solid black;
+}
+
+body{
+    font-family: cursive;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    line-height: 2em;
+    letter-spacing: 3em;
+}
