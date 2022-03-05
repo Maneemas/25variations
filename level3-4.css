@@ -14,6 +14,10 @@ h1{
     background-color: rgb(58, 97, 84);
 }
 
+em{
+    padding-left: 20em;
+}
+
 body{
     height: 1450px;
     padding: 40px 10px 10px 0px;

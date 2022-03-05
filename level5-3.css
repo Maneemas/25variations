@@ -18,11 +18,9 @@ h1{
     font-weight: 1500;
     width: 100vw;
     height: 100vh;
-    padding-left: 0.2em;
-    padding-right: 0.2em;
+    padding-left: 0.1em;
+    padding-right: 0.1em;
     margin:0%;
-    
-
 }
 
 
@@ -34,7 +32,7 @@ h2{
     justify-content: center;
 
     font-family: 'Archivo', sans-serif;
-    font-size: 3em;
+    font-size: 2em;
     letter-spacing: -0.1rem;
     width: 100vw;
     height: 100vh;

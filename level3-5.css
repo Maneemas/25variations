@@ -28,6 +28,10 @@ body{
     color:rgb(253, 240, 213)
 }
 
+em{
+    padding-left: 10em;
+}
+
 .body1{
     width: 300px;
     height: 200px;
