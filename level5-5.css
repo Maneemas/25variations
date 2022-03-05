@@ -1,4 +1,42 @@
 a{
     color: red;
     font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: 10em;
+}
+
+h1{
+    position: sticky;
+    top: 0%;
+    padding-left: 0.7em;
+    margin-top: 2em;
+    font-size: 10em;
+    font-family: 'Rampart One', cursive;
+    text-shadow: rgb(10, 75, 255) 10px 7px;
+    color: rgb(255, 92, 138);
+}
+
+h2{
+    position: sticky;
+    top: 25%;
+    padding-left: 8em;
+    margin-top: 20em;
+    font-size: 2em;
+    font-family: 'Rampart One', cursive;
+    text-shadow: (10, 75, 255) 10px 7px;
+    color:rgb(10, 75, 255);
+}
+
+div{
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2em;
+    padding-top: 20em;
+    height: auto;
+    margin:0%;
+    color: white;
+}
+
+body{
+    background: linear-gradient( white 10%,rgb(10, 75, 255), rgb(255, 92, 138));
 }

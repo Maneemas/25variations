@@ -99,3 +99,11 @@ h2{
 a{
     color: red;
 }
+
+.material-icons-outlined{
+    color: white;
+    position: absolute;
+    top: 80%;
+    left: 90%;
+    background-color: none;
+}
