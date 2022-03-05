@@ -1,5 +1,5 @@
 html{
-    background-color: rgb(94, 84, 142);
+    background-color: rgb(84, 109, 142);
     color: rgb(255, 255, 255);
 }
 
@@ -18,6 +18,9 @@ h1{
     text-shadow: white 2px 5px;
     font-size: 2em;
     color: rgb(35, 25, 66);
+    border-bottom: 0.5em solid black;
+    border-right: 0.5em solid rgb(58, 58, 58);
+    background-color: rgb(180, 180, 180);
 }
 
 .h2{
@@ -29,66 +32,87 @@ h1{
 .body1{
     padding: 3px 6px 40px;
     float: left;
-    background-color: rgb(159, 134, 192);
+    background-color: rgb(134, 166, 192);
 
     font-size: 0.5rem;
     font-weight: 900;
     text-align:center;
     line-height: 200%;
     letter-spacing: 0.1em;
+    text-align: justify;
+    text-shadow: rgb(35, 25, 66) 3px 4px 1px;
+
+    border-bottom: 1em solid black;
+    border-right: 1em solid rgb(58, 58, 58);
     
 }
 
 .body2{
     padding: 4px 5px 50px;
     float: left;
-    background-color: rgb(175, 142, 194);
+    background-color: rgb(142, 186, 194);
 
     font-size: 0.5rem;
     font-weight: 900;
     text-align:center;
     line-height: 200%;
     letter-spacing: 0.1em;
+    text-shadow: rgb(35, 25, 66) 3px 4px 1px;
+
+    border-bottom: 1em solid rgb(20, 20, 20);
+    border-right: 1em solid rgb(77, 77, 77);
 }
 .body3{
     padding: 5px 8px 250px;
     float: left;
-    background-color: rgb(190, 149, 196);
+    background-color: rgb(149, 191, 196);
 
     font-size: 0.5rem;
     font-weight: 900;
     text-align:center;
     line-height: 200%;
     letter-spacing: 0.1em;
+    text-shadow: rgb(35, 25, 66) 3px 4px 1px;
+
+    border-bottom: 1em solid rgb(39, 39, 39);
+    border-right: 1em solid rgb(99, 99, 99);
 }
 
 .body4{
     padding: 5px 8px 300px;
     float: left;
-    background-color: rgb(207, 163, 200);
+    background-color: rgb(163, 204, 207);
 
     font-size: 0.5rem;
     font-weight: 900;
     text-align:center;
     line-height: 200%;
     letter-spacing: 0.1em;
+    text-shadow: rgb(35, 25, 66) 3px 4px 1px;
+
+    border-bottom: 1em solid rgb(58, 58, 58);
+    border-right: 1em solid rgb(105, 105, 105);
 }
 
 .body5{
     padding: 5px 8px 400px;
-    float: left;background-color: rgb(224, 177, 203);
+    float: left;background-color: rgb(185, 228, 228);
 
     font-size: 0.5rem;
     font-weight: 900;
     text-align:center;
     line-height: 200%;
     letter-spacing: 0.1em;
+    text-shadow: rgb(35, 25, 66) 3px 4px 1px;
+
+    border-bottom: 1em solid rgb(68, 68, 68);
+    border-right: 1em solid rgb(114, 114, 114);
 }
 
 .body6{
     padding: 5px 8px 420px;
     float: left;
-    background-color: rgb(227, 184, 208);
+    background-color: rgb(202, 232, 233);
     text-align: center;
 
     font-size: 0.5rem;
@@ -96,6 +120,10 @@ h1{
     text-align:center;
     line-height: 200%;
     letter-spacing: 0.1em;
+    text-shadow: rgb(35, 25, 66) 3px 4px 1px;
+
+    border-bottom: 1em solid rgb(83, 82, 82);
+    border-right: 1em solid rgb(129, 129, 129);
 }
 
 a{

@@ -1,121 +1,40 @@
 html{
     font-family: 'Antic Slab', serif;
-    scroll-snap-type: x mandatory;
-    overflow-x: scroll;
-}
-
-body{
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    text-align: center;
-    font-size: 1.3em;
+   
 }
 
 h1{
-    margin: 0;
-    font-size: 4em;
-    letter-spacing: 2rem;
-    font-weight: 1000;
-    text-align: center;
-    padding-top: 6rem;
-    width: 100vw;
-    height: 60vw;
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 18, 51);
-    scroll-snap-align: start;
+    padding-top: 1em;
+    color: white;
+    font-size: 5em;
 }
+
+body{
+    text-align: center;
+    font-size: 1em;
+
+
+    border-radius: 50%;
+    margin: 0% auto;
+    background-color: rgb(0, 0, 0);
+    background-attachment: fixed;
+    
+}
+
+.circle{
+    width: 60em;
+    height: 100em;
+    border-radius: 50%;
+    margin: 0% auto;
+    background: linear-gradient(rgb(233, 76, 63), #6b6bbe, white, rgb(46, 137, 165));
+    background-attachment: fixed;
+}
+
 
 em{
     font-size: 0.3em;
 }
 
-strong{
-    color: brown;
-    font-size: 0.2em;
-    letter-spacing: 0.5rem;
-    position:absolute;
-    top: 45em;
-    right: 41em;
-}
-
-
-.body1{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100vw;
-    height: 100vh;
-    letter-spacing: 0.3rem;
-    line-height: 2rem;
-    background-color: rgb(200, 200, 200);
-    scroll-snap-align: start;
-}
-
-.body2{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100vw;
-    height: 100vh;
-    letter-spacing: 0.3rem;
-    line-height: 2rem;
-    color:rgb(25, 25, 25);
-    background-color: rgb(150, 150, 150);
-    scroll-snap-align: start;
-}
-
-.body3{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100vw;
-    height: 100vh;
-    letter-spacing: 0.3rem;
-    line-height: 2rem;
-    color: rgb(48, 48, 48);
-    background-color: rgb(100, 100, 100);
-    scroll-snap-align: start;
-}
-
-.body4{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100vw;
-    height: 100vh;
-    letter-spacing: 0.3rem;
-    line-height: 2rem;
-    color: rgb(150, 150, 150);
-    background-color: rgb(50, 50, 50);
-    scroll-snap-align: start;
-}
-
-.body5{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100vw;
-    height: 100vh;
-    letter-spacing: 0.3rem;
-    line-height: 2rem;
-    color: rgb(201, 201, 201);
-    background-color: rgb(25, 25, 25);
-    scroll-snap-align: start;
-}
-
-.body6{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100vw;
-    height: 100vh;
-    letter-spacing: 0.3rem;
-    line-height: 2rem;
-    color: white;
-    background-color: rgb(0, 0, 0);
-    scroll-snap-align: start;
-}
 
 a{
     color: red;
